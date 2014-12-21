@@ -1,5 +1,5 @@
-uploadPreview
-=============
+uploadPreview jQuery插件
+==============================
 
 这是一个jQuery插件。用于把图片上传到服务器之前能够在本地预览图片。兼容IE6+、FF、Chrome浏览器。
 
